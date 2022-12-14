@@ -1,0 +1,22 @@
+id: A6E3A916A
+title: Toh_282-Threefold_Training-v1
+type: translation
+pechas:
+- I3D3CFB25
+- IC0947659
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-09-26T07:14:13.428Z'
+  creationid: mabja
+  eft-text-id: UT22084-068-016
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_282-Threefold_Training-v1
+alignment_to_base:
+  I3D3CFB25/CD23: 36CA
+  IC0947659/9342: 36CA
